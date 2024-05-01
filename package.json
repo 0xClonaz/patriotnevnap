@@ -1,0 +1,16 @@
+{
+  "name": "twitch-nevnap-bot",
+  "version": "1.0.0",
+  "description": "A simple server to fetch and display namedays on Twitch",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^0.21.1"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
